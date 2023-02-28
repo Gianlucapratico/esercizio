@@ -371,12 +371,13 @@ footer a {
   }
   img.underline{
     top: unset;
-    bottom: -13px;
-    right: 0;
+    
+    right: 112px;
     position: absolute;
+}
   }
 
-}
+
 img.underline {
   max-width: 100%;
 }
