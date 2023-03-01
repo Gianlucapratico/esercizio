@@ -429,3 +429,8 @@ img.underline {
 #torna-su:hover {
   background-color: #c810e3;
 }
+.fa-tag:before {
+  content: "\f02b";
+  position: absolute;
+  right: 97px;
+}
